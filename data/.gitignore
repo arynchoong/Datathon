@@ -1,0 +1,6 @@
+# Do not upload any data
+# This folder is created as a placeholder for your local data sets
+# Untracked files:
+/*
+# Except this file
+!.gitignore
