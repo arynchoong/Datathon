@@ -1,6 +1,14 @@
 # Datathon
 Repository for NUS-MIT Datathon 2017 Team 02
 
+eICU-CRD Dataset
+
+Introduction & Documentation: https://eicu-crd.mit.edu/about/eicu/
+ 
+Github repository: https://github.com/mit-eicu/eicu-code
+ 
+Example code: https://github.com/mit-eicu/eicu-code/blob/master/concepts/icustay_detail.sql
+
 ## Repository structure
 ```
     ├── data <- Data files
