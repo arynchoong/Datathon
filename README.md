@@ -5,9 +5,9 @@ eICU-CRD Dataset
 
 Introduction & Documentation: https://eicu-crd.mit.edu/about/eicu/
  
-Github repository: https://github.com/mit-eicu/eicu-code
- 
-Example code: https://github.com/mit-eicu/eicu-code/blob/master/concepts/icustay_detail.sql
+MIMIC Dataset
+
+Introduction & Documentation: https://mimic.physionet.org/about/mimic/
 
 ## Repository structure
 ```
