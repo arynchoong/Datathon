@@ -1,10 +1,7 @@
 # Do not upload any data
 # This folder is created as a placeholder for your local data sets
-# See README.md for folder structure
-
 # Untracked files:
-*.*
-
+/*
 # Except these file
 !.gitignore
 !README.md

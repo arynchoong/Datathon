@@ -15,7 +15,8 @@ Introduction & Documentation: https://mimic.physionet.org/about/mimic/
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── raw            <- The original, immutable data dump.
+    │   └── [README.md](/data/README.md)            <- Contain data structure.
     │
     ├── src <- Souce codes
     │   ├── data <- source codes to download/clean data
